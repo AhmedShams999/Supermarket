@@ -1,0 +1,54 @@
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\bin\Debug\supermarket.exe.config
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\bin\Debug\supermarket.exe
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\bin\Debug\supermarket.pdb
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\bin\Debug\Guna.UI.dll
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\obj\Debug\supermarket.csproj.AssemblyReference.cache
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\obj\Debug\supermarket.csproj.SuggestedBindingRedirects.cache
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\obj\Debug\supermarket.Form1.resources
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\obj\Debug\supermarket.Properties.Resources.resources
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\obj\Debug\supermarket.csproj.GenerateResource.cache
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\obj\Debug\supermarket.csproj.CoreCompileInputs.cache
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\obj\Debug\supermarket.csproj.CopyComplete
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\obj\Debug\supermarket.exe
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\obj\Debug\supermarket.pdb
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\obj\Debug\supermarket.Splach.resources
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\obj\Debug\supermarket.productForm1.resources
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\bin\Debug\Database1.mdf
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\bin\Debug\Database1_log.ldf
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\obj\Debug\supermarket.signup_form.resources
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\obj\Debug\supermarket.CustomerForm.resources
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\obj\Debug\supermarket.OrderForm.resources
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\obj\Debug\supermarket.OrderForm2.resources
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\obj\Debug\supermarket.OrderForm3.resources
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\bin\Debug\SuperMarket.exe.manifest
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\bin\Debug\SuperMarket.application
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\obj\Debug\SuperMarket.exe.manifest
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket\obj\Debug\SuperMarket.application
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\bin\Debug\Database1.mdf
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\bin\Debug\Database1_log.ldf
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\bin\Debug\SuperMarket.exe.config
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\bin\Debug\SuperMarket.exe.manifest
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\bin\Debug\SuperMarket.application
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\bin\Debug\SuperMarket.exe
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\bin\Debug\SuperMarket.pdb
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\bin\Debug\Guna.UI.dll
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\obj\Debug\supermarket.csproj.AssemblyReference.cache
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\obj\Debug\supermarket.csproj.SuggestedBindingRedirects.cache
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\obj\Debug\supermarket.CustomerForm.resources
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\obj\Debug\supermarket.Form1.resources
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\obj\Debug\supermarket.OrderForm.resources
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\obj\Debug\supermarket.OrderForm2.resources
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\obj\Debug\supermarket.OrderForm3.resources
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\obj\Debug\supermarket.productForm1.resources
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\obj\Debug\SuperMarket.Properties.Resources.resources
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\obj\Debug\supermarket.signup_form.resources
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\obj\Debug\supermarket.Splach.resources
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\obj\Debug\supermarket.csproj.GenerateResource.cache
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\obj\Debug\supermarket.csproj.CoreCompileInputs.cache
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\obj\Debug\SuperMarket.exe.manifest
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\obj\Debug\SuperMarket.application
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\obj\Debug\supermarket.csproj.CopyComplete
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\obj\Debug\SuperMarket.exe
+C:\Users\EL-YaMaMa\OneDrive\سطح المكتب\supermarket(Visual Studio)\obj\Debug\SuperMarket.pdb
